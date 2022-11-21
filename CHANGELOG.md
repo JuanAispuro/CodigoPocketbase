@@ -20,6 +20,8 @@
     })
     ```
 
+- Added the new `*mailer.Message` to the `MailerRecordEvent`, `MailerAdminEvent` event structs.
+
 
 ## v0.8.0
 
